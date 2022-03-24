@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hero-Admin-Panel/static/css/main.fa58698d.chunk.css",
-    "main.js": "/Hero-Admin-Panel/static/js/main.3608e2c7.chunk.js",
-    "main.js.map": "/Hero-Admin-Panel/static/js/main.3608e2c7.chunk.js.map",
+    "main.js": "/Hero-Admin-Panel/static/js/main.cfd6e826.chunk.js",
+    "main.js.map": "/Hero-Admin-Panel/static/js/main.cfd6e826.chunk.js.map",
     "runtime-main.js": "/Hero-Admin-Panel/static/js/runtime-main.1dde8614.js",
     "runtime-main.js.map": "/Hero-Admin-Panel/static/js/runtime-main.1dde8614.js.map",
     "static/css/2.c62e3214.chunk.css": "/Hero-Admin-Panel/static/css/2.c62e3214.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.c62e3214.chunk.css",
     "static/js/2.44aabfd8.chunk.js",
     "static/css/main.fa58698d.chunk.css",
-    "static/js/main.3608e2c7.chunk.js"
+    "static/js/main.cfd6e826.chunk.js"
   ]
 }
